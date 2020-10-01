@@ -36,7 +36,7 @@ def last(input_list):
 
     """
 
-    return []
+    return (input_list[-1])
 
 
 def top(input_list):
@@ -49,7 +49,7 @@ def top(input_list):
 
     """
 
-    return []
+    return (input_list[:-1])
 
 
 def first_three(input_list):
@@ -62,7 +62,7 @@ def first_three(input_list):
 
     """
 
-    return []
+    return (input_list[0:3])
 
 
 def last_five(input_list):
@@ -75,7 +75,7 @@ def last_five(input_list):
 
     """
 
-    return []
+    return (input_list[-5::1])
 
 
 def middle(input_list):
