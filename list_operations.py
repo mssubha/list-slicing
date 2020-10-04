@@ -1,6 +1,5 @@
 """Utilities for manipulating lists."""
 
-
 def head(input_list):
     """Return the first item of the input list.
 
@@ -28,7 +27,7 @@ def tail(input_list):
 
 def last(input_list):
     """Return the last item of the input list.
-
+    123
     For example:
 
     >>> last(['Jan', 'Feb', 'Mar'])
